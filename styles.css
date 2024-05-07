@@ -1,0 +1,20 @@
+
+.pads {
+    height: 300px;
+    width: 300px;
+}
+
+.drum-pad {
+    height: 80px;
+    width: 80px;
+    background-color: gray;
+    color: darkblue;
+    text-align: center;
+    border-style: solid;
+    border-color: salmon;
+    display: inline-block;
+}
+
+.display {
+    display: inline;
+}
